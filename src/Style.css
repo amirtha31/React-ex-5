@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(202, 135, 235);
+    font-family: "Raleway", sans-serif;
+  }
+  .abc{
+    margin-right: auto;
+    margin-top: 50px;
+    color: rgb(42, 165, 106);
+    font-weight: 700px;
+  }
